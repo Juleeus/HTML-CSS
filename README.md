@@ -1,2 +1,2 @@
-# HTML-CSS myproject with Responsiveness
-learning html and css
+# HTML-CSS
+learning html and css myproject with Responsiveness
